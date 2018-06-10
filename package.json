@@ -1,5 +1,5 @@
 {
-  "name": "react-project-template",
+  "name": "MBPLUS",
   "version": "1.0.0",
   "description": "template for react with typeScript, Redux, Router 4 projects",
   "main": "index.ts",
